@@ -34,7 +34,7 @@
   ],
   "sites": [
     {"key": "Alist","name": "Alist","type": 3,"api": "./drpy/libs/alist.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./drpy/js/alist.json"},
-    {"key": "dr_海盗听书","name": "海盗听书(drpy)","type": 3,"api": "./drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./drpy/js/海盗听书.js"},
+    {"key": "dr_海盗听书","name": "海盗听书(drpy)","type": 3,"api": ".drpy/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "./drpy/js/海盗听书.js"},
     {"key": "dr_酷云77","name": "酷云77(drpy)","type": 3,"api": "http://ftp6284928.host108.abeiyun.cn/drpy/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://ftp6284928.host108.abeiyun.cn/drpy/js/酷云77.js"},
     {"key": "dr_菜狗","name": "菜狗(drpy)","type": 3,"api": "http://ftp6284928.host108.abeiyun.cn/drpy/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://ftp6284928.host108.abeiyun.cn/drpy/js/菜狗.js"},
     {"key": "dr_荐片","name": "荐片(drpy)","type": 3,"api": "http://ftp6284928.host108.abeiyun.cn/drpy/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://ftp6284928.host108.abeiyun.cn/drpy/js/荐片.js"},
