@@ -48,13 +48,13 @@
     {"key":"csp_Ysj","name":"异界动漫","type":3,"api":"csp_Ysj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1, "jar":"./jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51"},
 
     
-    {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$关"},
-    {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt+4k|auto|fhd"},
-    {"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
-    {"key":"csp_PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt+4k|auto|fhd"},
-    {"key":"csp_UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt+4k|auto|fhd"},
-    {"key":"csp_PanSearch","name":"盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt+4k|auto|fhd"},
-    {"key":"csp_七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt+4k|auto|fhd"}
+    {"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt|auto|fhd$$$https://www.wogg.xyz/$$$关"},
+    {"key":"csp_YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt|auto|fhd"},
+    {"key":"csp_Zhaozy","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt|auto|fhd$$$fanfan$$$qqq111"},
+    {"key":"csp_PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt|auto|fhd"},
+    {"key":"csp_UpYun","name":"Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt|auto|fhd"},
+    {"key":"csp_PanSearch","name":"盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt|auto|fhd"},
+    {"key":"csp_七夜","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./h/json/token.txt|auto|fhd"}
   ],
   "parses":[
     {"name":"Web聚合","type":3,"url":"Web"},
